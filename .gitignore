@@ -1,0 +1,7 @@
+Encryption.sln
+.git/
+.vs/
+Debug/
+Encryption/Debug
+Encryption/*.vcxproj
+Encryption/*.vcxproj.*
